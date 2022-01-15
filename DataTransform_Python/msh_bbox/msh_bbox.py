@@ -10,7 +10,7 @@
 
 import numpy as np
 
-inputPath = '/home/cw/MyCode/IPC/input/tetMeshes/sphere19K.msh' # need modifiy
+inputPath = '/home/cw/MyCode/IPC/input/tetMeshes/T90_upper.msh' # need modifiy
 
 with open(inputPath, 'r') as f:
     line = f.readline()

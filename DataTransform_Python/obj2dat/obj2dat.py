@@ -10,10 +10,10 @@
 
 import meshio
 
-inputPath = 'E:\\项目\\清锋\\result_obj\\lattice_type501__10_2_10\\' # need modify
-outputPath = 'E:\\项目\\清锋\\result_dat\\lattice_type501__10_2_10\\' # need modify
+inputPath = '/home/cw/project/2021-12-9----shoe_simulation/T90_sphere/obj/' # need modify
+outputPath = '/home/cw/project/2021-12-9----shoe_simulation/T90_sphere/dat/' # need modify
 start = 0 # need modify
-end = 100 # need modify
+end = 200 # need modify
 
 for i in range(start, end+1):
     if i%10 == 0:

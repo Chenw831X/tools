@@ -10,7 +10,7 @@
 
 import numpy as np
 
-inputPath = '100.obj' # need modify
+inputPath = 'T90.obj' # need modify
 V = np.empty((0, 3), dtype=np.float64)
 
 with open(inputPath, 'r') as f:
