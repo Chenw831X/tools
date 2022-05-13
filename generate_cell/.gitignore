@@ -1,13 +1,10 @@
-# .vscode
-.vscode
-
 # build
 build
 cmake-build-debug
 cmake-build-release
 
-# input
-input
-
 # output
 output
+
+# test
+test

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="generate_cell" targetName="generate_cell_dev" />
+      <config projectName="generate_cell" targetName="generate_cell_bin" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" ENABLED="true" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7537a738-1384-4269-af6c-4aa60562bf90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eigen2Array/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Eigen2Array/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eigen2Array/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Eigen2Array/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/draw_anim.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/draw_anim.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_anim/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_anim/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_anim/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_anim/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_anim/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/draw_pic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/draw_pic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_pic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_pic/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_pic/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GLUT_USE/draw_pic/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../GLUT_USE/draw_pic/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objTrans/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../objTrans/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objTrans/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../objTrans/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="289UVFu9tmoTXBg5xZy9tAvdZrb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "cmake.loaded.for.project": "true",
+    "last_opened_file_path": "/home/cw/MyCode/tools/generate_cell",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "structure.view.defaults.are.configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.generate_cell_bin">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generate_cell_bin" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="generate_cell" TARGET_NAME="generate_cell_bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="generate_cell" RUN_TARGET_NAME="generate_cell_bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generate_cell_dev" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="generate_cell" TARGET_NAME="generate_cell_dev" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.generate_cell_bin" />
+      <item itemvalue="CMake Application.generate_cell_dev" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7537a738-1384-4269-af6c-4aa60562bf90" name="Changes" comment="" />
+      <created>1650628317185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650628317185</updated>
+      <workItem from="1650628320412" duration="7131000" />
+      <workItem from="1650696525812" duration="7167000" />
+      <workItem from="1650765121345" duration="27274000" />
+      <workItem from="1650850691636" duration="15137000" />
+      <workItem from="1651023304131" duration="40000" />
+      <workItem from="1651114265175" duration="1226000" />
+      <workItem from="1651116047946" duration="2000" />
+      <workItem from="1651126394106" duration="50000" />
+      <workItem from="1651197041899" duration="17000" />
+      <workItem from="1651456242738" duration="17372000" />
+      <workItem from="1652420575594" duration="8458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
